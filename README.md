@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheInpiredConjurer
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in Full Stack Web Development and Python
 - 🌱 I’m currently learning HTML, and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramyakrohanmohanty@gmail.com and Discord-user ID: TRAXCUTTER#4715
