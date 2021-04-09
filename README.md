@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheInspiredConjurer
+- 👋 Hi, I’m TheInspiredConjurer
 - 👀 I’m interested in Full Stack Web Development and Python
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
