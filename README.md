@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development and Python
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects done using HTML5 and CSS3
-- 📫 You can contact me via mail: ramyakrohanmohanty@gmail.com or Discord-user ID: TRAXCUTTER#4715
+- 📫 You can contact me via mail: ramyakrohanmohanty@gmail.com
 
 <!---
 TheInpiredConjurer/TheInpiredConjurer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
