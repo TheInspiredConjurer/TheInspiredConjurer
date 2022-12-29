@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramyak, a.k.a TheInspiredConjurer
 - 👀 I’m interested in Full Stack Web Development and Python
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects done using HTML5 and CSS3
 - 📫 You can contact me via mail: ramyakrohanmohanty@gmail.com
 
